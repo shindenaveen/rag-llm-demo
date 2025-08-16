@@ -1,0 +1,3 @@
+Q: Who founded Arista Networks?
+A: Arista Networks was founded by Andy Bechtolsheim, David Cheriton, and Kenneth Duda.
+Context Snippet: ['Arista Networks was founded in 2004 by Andy Bechtolsheim, David Cheriton, and Kenneth Duda.']
