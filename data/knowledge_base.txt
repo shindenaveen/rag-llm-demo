@@ -1,0 +1,31 @@
+Arista Networks was founded in 2004 by Andy Bechtolsheim, David Cheriton, and Kenneth Duda.
+Arista prioritizes engineering-driven culture and flat management structures.
+Vertex AI is Google Cloud Platform’s managed machine learning service for building, deploying, and scaling ML models.
+LangChain is an open-source Python framework for building applications powered by large language models.
+FAISS is a popular library for efficient similarity search and clustering of dense vectors, developed by Facebook AI Research.
+Confluence is a collaborative workspace where teams organize and share knowledge in a structured way.
+GitLab enables DevOps workflows for source control, issue tracking, and continuous integration.
+Kubernetes is an open-source platform for managing containerized workloads and services.
+Docker simplifies application deployment by packaging code and dependencies into containers.
+Prometheus is used for monitoring and alerting, especially in cloud-native environments.
+Grafana provides rich visualizations for time-series data and metrics.
+Databricks is a cloud platform for scalable data analytics, Spark workflows, and machine learning.
+Oracle Database is a powerful relational database management system used for enterprise data.
+PySpark is a Python API for Apache Spark, enabling distributed computation on large datasets.
+XGBoost is an optimized ML algorithm for regression and classification problems.
+SMOTE is a technique for handling imbalanced datasets by synthetic oversampling.
+Azure provides scalable cloud infrastructure for applications and data storage.
+Talend offers ETL solutions for data integration, transformation, and governance.
+RESTful APIs enable standardized communication between client and server applications.
+FastAPI is a modern Python web framework for building APIs quickly and efficiently.
+SHAP explains machine learning model predictions using Shapley values from game theory.
+Random Forest is a robust ensemble technique for classification and regression tasks.
+Decision Trees model decisions using a tree-like structure to split and classify data points.
+Bootstrapping is a resampling technique for estimating statistics on a population by sampling with replacement.
+A/B testing is a statistical method for comparing two versions of a product or feature.
+Power BI is Microsoft’s data visualization and business intelligence platform.
+Excel is a spreadsheet tool used widely for data analysis and visualization.
+NumPy is a core Python library for numerical computing and array manipulation.
+Pandas is a high-level Python library for data wrangling and analytics.
+Seaborn provides statistical data visualization using Python.
+Matplotlib is a plotting library for creating static, animated, and interactive charts in Python.
